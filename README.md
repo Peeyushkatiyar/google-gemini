@@ -1,1 +1,1 @@
-Gemini Innovate project
+Gemini AI Suite
