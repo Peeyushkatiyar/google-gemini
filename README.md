@@ -1,1 +1,1 @@
-Google-gemini-project
+Gemini Innovate project
